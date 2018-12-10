@@ -21,11 +21,11 @@ La Smart Fountain sera contrôlée à distance par une application Android perme
       -	Objectif : faire fonctionner tous les jets de la fontaine sous arduino
       -	contraintes : Intensité correcte des jets
   +	Jouer des « spectacles » spécifiques sur l’appui de boutons
-      o	Objectif : Faire répondre la fontaine à l’appui d’un bouton
-      o	Contrainte : Fonctionne seulement en absence de contrôle à distance
+      -	Objectif : Faire répondre la fontaine à l’appui d’un bouton
+      -	Contrainte : Fonctionne seulement en absence de contrôle à distance
   +	Piloter la fontaine depuis un smartphone
-      o	Objectif : Faire répondre la fontaine aux instructions d’une application
-      o	Contrainte : Avoir un smartphone Android connecté par Bluetooth à la fontaine
+      -	Objectif : Faire répondre la fontaine aux instructions d’une application
+      -	Contrainte : Avoir un smartphone Android connecté par Bluetooth à la fontaine
 
 
 ## 5 - Délais de réalisation
