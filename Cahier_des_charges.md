@@ -18,8 +18,8 @@ La Smart Fountain sera contrôlée à distance par une application Android perme
 ## 4 - Description fonctionnelle des besoins
 ### Fonction principale : Créer une fontaine fonctionnelle
   +	Créer une fontaine 
-      o	Objectif : faire fonctionner tous les jets de la fontaine sous arduino
-      o	contraintes : Intensité correcte des jets
+      ++	Objectif : faire fonctionner tous les jets de la fontaine sous arduino
+      ++	contraintes : Intensité correcte des jets
   +	Jouer des « spectacles » spécifiques sur l’appui de boutons
       o	Objectif : Faire répondre la fontaine à l’appui d’un bouton
       o	Contrainte : Fonctionne seulement en absence de contrôle à distance
