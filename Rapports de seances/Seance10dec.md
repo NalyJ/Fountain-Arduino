@@ -1,16 +1,26 @@
-## Séance du 10 décembre 2018
+# Séance du 10 décembre 2018
 
-Tâches effectuées aujourd'hui:
+## Tâches effectuées aujourd'hui:
 
   + En ce jour, nous avons défini notre cahier des charges pour réaliser notre projet : [Cahier des charges](/Documents/Cahier_des_charges.md)
   + Nous avons décomposer le rendu final en plusieurs étapes pour pouvoir mettre en place un diagramme de Gantt permettant de faciliter notre avancemet du projet.
-  <img src="/Diagramme_de_Gantt.jpg" alt="Diagramme" height="200">
+  <img src="/Diagramme_de_Gantt.jpg" alt="Diagramme" height="200"/>
   
-  +Durant cette journée nous avons mis en place le Github qui nous servira de mettre tous nos fichiers (codes et compte rendu) et permettent aux autres (collaborateurs et enseignants) de suivre notre projet.
+Durant cette journée nous avons mis en place le Github qui nous servira de mettre tous nos fichiers (codes et compte rendu) et permettent aux autres (collaborateurs et enseignants) de suivre notre projet.
   
+Nous avons eu la difficulté de compléter notre cahier des charges:
+  -savoir les éléments pour constituer notre projet;
+  -s'entendre ensemble pour définir notre cahier des charges;
+  
+## Attentes de la prochaine séance:
+
++ On compte commencer notre projet en fabriquant la maquette;
+
++ Avoir le materiel pour commencer à écrire le code et faire fonctionner la pompe
+
   ***
   
-  ## Travail personnel en autonomie
+## Travail personnel en autonomie:
 
 Tâches effectuées aujourd'hui:
 
