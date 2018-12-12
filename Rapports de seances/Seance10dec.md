@@ -4,7 +4,7 @@
 
   + En ce jour, nous avons défini notre cahier des charges pour réaliser notre projet : [Cahier des charges](/Documents/Cahier_des_charges.md)
   + Nous avons décomposer le rendu final en plusieurs étapes pour pouvoir mettre en place un diagramme de Gantt permettant de faciliter notre avancemet du projet.
-  <img src="/Diagramme_de_Gantt.jpg" alt="Diagramme" height="200"/>
+  <img src="Fountain-Arduino/Diagramme_de_Gantt.jpg" alt="Diagramme" height="200"/>
   
 Durant cette journée nous avons mis en place le Github qui nous servira de mettre tous nos fichiers (codes et compte rendu) et permettent aux autres (collaborateurs et enseignants) de suivre notre projet.
   
