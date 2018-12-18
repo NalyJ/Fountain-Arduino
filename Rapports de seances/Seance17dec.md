@@ -17,7 +17,7 @@
  ## Difficultés lors de la séance
  
  + Pour l'instant notre difficulté majeur durant la séance de ce jour est de pouvoir faire fonctionner notre pompe depuis notre arduino.
-    <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Code/projet_arduio.ino">Programme connection pompe</a>
+    <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Code/projet_arduio.ino">Programme connexion pompe</a>
   
  + Ensuite la deuxième difficulté c'était le modèle des pompes. En effet nous avons découvert que les pompes ont un trou pour rentrer l'eau et une autre pour éjecter l'eau. Cependant les 2 trous sont du même coté ce qui envisagerait:
     - soit de fabriquer une plus grande bassine pour intégrer les pompes verticalement et donc d'augmenter le niveau de l'eau;
@@ -35,3 +35,4 @@
 ## Travail personnel en autonomie
 
 Comme Je possède chez moi le montage, je vais essayer de  pouvoir connecter notre fameuse pompe.
+Chercher et acheter de nouvelles pompes.
