@@ -9,7 +9,7 @@
   <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/Capture%20d'%C3%A9cran%202018-12-18%2015.05.55.png" alt="quadruple pont en H" height="200"/>
   
   Notre rendu final donne ça :
-  <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/48420962_355937168317665_7066012042838147072_n.jpg" alt"montage"/>
+  <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/48420962_355937168317665_7066012042838147072_n.jpg" alt="montage" height="200"/>
   
  Nous sommes actuellement en train de rédiger le code pour commander la pompe depuis Arduino.
  
