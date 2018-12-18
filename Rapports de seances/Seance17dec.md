@@ -15,4 +15,23 @@
  Nous sommes actuellement en train de rédiger le code pour commander la pompe depuis Arduino.
  
  ## Difficultés lors de la séance
- Suite...
+ 
+ + Pour l'instant notre difficulté majeur durant la séance de ce jour est de pouvoir faire fonctionner notre pompe depuis notre arduino.
+    <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Code/projet_arduio.ino">Programme connection pompe</a>
+  
+ + Ensuite la deuxième difficulté c'était le modèle des pompes. En effet nous avons découvert que les pompes ont un trou pour rentrer l'eau et une autre pour éjecter l'eau. Cependant les 2 trous sont du même coté ce qui envisagerait:
+    - soit de fabriquer une plus grande bassine pour intégrer les pompes verticalement et donc d'augmenter le niveau de l'eau;
+    - soit de mettre les pompes à l'exterieur de la bassine et de fabriquer un system de tuyaux pour créer des exemples de jets mais ce qui nous compliquerait la tâche et sera moins envisageable pour commander chaque fontaine indépendemment.
+    
+    
+## Attentes de la prochaine séance
+
++ Réussir de pouvoir connecter notre pompe à arduino.
+
++ Créer des exemples de jets;
+
++ Réfléxion sur de nouvelles pompes plus adaptables à notre projet.
+
+## Travail personnel en autonomie
+
+Comme Je possède chez moi le montage, je vais essayer de  pouvoir connecter notre fameuse pompe.
