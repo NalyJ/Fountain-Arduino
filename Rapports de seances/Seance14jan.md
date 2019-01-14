@@ -3,7 +3,8 @@
 
 + Aujourd'hui nous avons créé de nouveaux programmes pour différents styles de jets.
 <a href="https://github.com/NalyJ/Fountain-Arduino/tree/master/Code/fontaine_prog1">Programme 1</a>
-<a href="https://github.com/NalyJ/Fountain-Arduino/tree/master/Code/fontaine_pattern_2">Programme connexion pompe</a>
+<br></br>
+<a href="https://github.com/NalyJ/Fountain-Arduino/tree/master/Code/fontaine_pattern_2">Programme 2</a>
 
 + Par la suite nous avons commencé à intégrer le bouton poussoir pour enclencher notre programme.  
  
