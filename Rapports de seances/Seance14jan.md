@@ -2,6 +2,8 @@
 ## Tâches effectuées aujourd'hui:
 
 + Aujourd'hui nous avons créé de nouveaux programmes pour différents styles de jets.
+<a href="https://github.com/NalyJ/Fountain-Arduino/tree/master/Code/fontaine_prog1">Programme 1</a>
+<a href="https://github.com/NalyJ/Fountain-Arduino/tree/master/Code/fontaine_pattern_2">Programme connexion pompe</a>
 
 + Par la suite nous avons commencé à intégrer le bouton poussoir pour enclencher notre programme.  
  
@@ -11,19 +13,19 @@
  Ainsi nous avons dû changer de sources en utilisant un générateur mais notre générateur change souvent de tension 12V à 5V pour une raison inconnue.
  
  + Ensuite nous étions  en train de réfléchir la disposition de boutons poussoirs. En effet nous avons prévu d'utiliser un bouton poussoir pour chaque programme qui se lancera.
- Hélas notre carte Arduino ne contiendra pas assez de sorties pour relier les PIN
+ Hélas notre carte Arduino ne contiendra pas assez de sorties pour relier les PIN du 2ème L298 et les boutons poussoirs. Nous pensons utiliser un seul bouton.
     
 ## Attentes de la prochaine séance
 
-+ Créer des exemples de jets (spectacles);
++ Brancher le 2ème pont en H pour brancher les 3ème et 4ème pompes;
 
-+ Acquérir de nouvelles pompes plus adaptables à notre projet.
++ Savoir mettre le bouton poussoir dans notre branchement;
 
-+ Connecter notre montage avec des boutons et réaliser de nouveaux types de spectacles.
++ Et si nous avons le temps, on pourra essayer de brancher le module bluetooth;
 
 ## Travail personnel en autonomie
 
-Comme Je possède chez moi le montage, je vais essayer de  pouvoir régler la différence de tension des pompes.
-Chercher et acheter de nouvelles pompes.
+Je vais essayer de m'avancer dans les branchements et je vais commencer à voir une bassine spéciale pour notre projet.
+Nous avons eu pas mal de retard et donc je dois m'avancer au projet.
 
 
