@@ -1,38 +1,46 @@
-# Séance du 17 décembre 2018
+# Séance du 4 février
 ## Tâches effectuées aujourd'hui:
-+ Nous avons découvert le matériel constituant notre projet;
++ Suite au branchement de la 3e pompe effectué pendant la semaine du ski, nous avons branché notre 4e pompe;
 
-+ Par la suite nous avons essayé de faire le montage:
-  - Tout d'abord nous avons mis en relation juste une pompe et les piles qui totalisent une tension de 6V.
-  - Par la suite nous avons booster note pompe à 12V pour ainsi le faire fonctionner.
-  - Enfin nous avons fini notre montage en intégrant le quadruple demi pont en H qui nous sert de diodes de roue libre et empêche le composant de court-cicuiter.
-  <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/Capture%20d'%C3%A9cran%202018-12-18%2015.05.55.png" alt="quadruple pont en H" height="200"/>
++ En raison du manque de place sur notre carte arduino, nous avons décidé de connecter les pin (IN1,IN3) des quadruple pont en H au pin du 5 V de la carte arduino pour libérer de la place; 
+
++ Nous avons ensuite connecter le module bluetooth HC-06 pour pouvoir piloter les pompes depuis notre smartphone;
+Voici notre montage.
+  <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/DSC_0028.jpg" alt="Montage" height="200"/>
   
-  Notre rendu final donne ça :
-  <br></br>
-  <img src="https://photos.google.com/photo/AF1QipNyEAcLKLplIyPXooKxs1-Dmw4Haubh5Ut-hGuk?hl=fr" alt="Schéma de la fontaine" height="300"/>
++ Nous avons commencé à créer des schémas pour la fabrication de notre fontaine :
+<img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/DSC_0029.JPG" alt="Montage final" height="200"/>
+                                                                               
+ Nous avons envisagé de le modéliser sur Sketchup ou Inventor pour fabriquer des éléments par une imprimante 3D.
   
- Nous sommes actuellement en train de rédiger le code pour commander la pompe depuis Arduino.
  
  ## Difficultés lors de la séance
  
- + Pour l'instant notre difficulté majeur durant la séance de ce jour est de pouvoir faire fonctionner notre pompe depuis notre arduino.
-    <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Code/projet_arduio.ino">Programme connexion pompe</a>
+ + Notre difficulté majeure était de pouvoir connecter notre 4e pompe en raison du manque de place sur la carte Arduino.
+   Mais grâce à l'aide du prof nous avons résolu le soucis en connectant un pin (INx) de chaque pompe au 5 V de la carte (INx en HIGH), 
+   et l'autre pin (INx) en le deconnectant;
   
- + Ensuite la deuxième difficulté c'était le modèle des pompes. En effet nous avons découvert que les pompes ont un trou pour rentrer l'eau et une autre pour éjecter l'eau. Cependant les 2 trous sont du même coté ce qui envisagerait:
-    - soit de fabriquer une plus grande bassine pour intégrer les pompes verticalement et donc d'augmenter le niveau de l'eau;
-    - soit de mettre les pompes à l'exterieur de la bassine et de fabriquer un system de tuyaux pour créer des exemples de jets mais ce qui nous compliquerait la tâche et sera moins envisageable pour commander chaque fontaine indépendemment.
+ + Ensuite la deuxième difficulté qui n'était pas très long c'était la connexion du module bluetooth avec le smartphone. En effet nous étions en train de voir ce qu'on pourrait ajouter comme bouton de fonctionnenemnt à notre fontaine.
+ 
+ <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/Screenshot_20190204-185920.png" alt="Montage" height="200"/>
     
-    
+ + Puis nous avons décidé de raccourcir et simplifier notre code arduino pour une meilleure visualisation du programme.
+ <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Code/fontaine_prog1/projet%20arduino.ino">Code</a>;
+ 
+ + Enfin nous nous sommes attardés sur la conception de notre fontaine.
+ "Voir 1ere partie"
+ 
 ## Attentes de la prochaine séance
 
-+ Réussir de pouvoir connecter notre pompe à arduino.
++ Nous allons commencer à concevoir notre fontaine avec l'aide des matériaux en carton et en bois;
 
-+ Créer des exemples de jets;
++ Concevoir des pièces grâce à l'imprimante 3D pour la stabilisation de nos bouts de tuyaux :
+<img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/DSC_0029(1).JPG" alt="Système d'attache des bouts de tuyaux" height="200"/>
 
-+ Réfléxion sur de nouvelles pompes plus adaptables à notre projet.
++ Installer les boutons poussoirs;
+
++ Objectif avant fin février de tester notre fontaine à l'eau.
 
 ## Travail personnel en autonomie
 
-Comme Je possède chez moi le montage, je vais essayer de  pouvoir connecter notre fameuse pompe.
-Chercher et acheter de nouvelles pompes.
+Ayant à ma posséssion le montage, j'essayerai de m'avancer pour pouvoir réduire les taches à faire de la semaine prochaine. C'est pourquoi je commence à modéliser la fontaine sur Inventor Autodesk.
