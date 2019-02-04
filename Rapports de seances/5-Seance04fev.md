@@ -10,7 +10,7 @@
   
   Notre rendu final donne ça :
   <br></br>
-  <img src="https://photos.google.com/photo/AF1QipNyEAcLKLplIyPXooKxs1-Dmw4Haubh5Ut-hGuk?hl=fr
+  <img src="https://photos.google.com/photo/AF1QipNyEAcLKLplIyPXooKxs1-Dmw4Haubh5Ut-hGuk?hl=fr" alt="Schéma de la fontaine" height="300"/>
   
  Nous sommes actuellement en train de rédiger le code pour commander la pompe depuis Arduino.
  
