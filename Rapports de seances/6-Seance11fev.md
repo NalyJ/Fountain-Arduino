@@ -13,6 +13,7 @@
  puis avec du plastique grace à l'imprimante 3D :
  <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/DSC_0048.JPG" alt="Montage" height="200"/>
  <hr></hr>
+ 
   ## Difficultés lors de la séance
  
  + Notre difficulté majeure était de pouvoir connecter le ruban de LED. En effet nous avons pris du temps à pour comprendre lire et savoir ce qui n'a
