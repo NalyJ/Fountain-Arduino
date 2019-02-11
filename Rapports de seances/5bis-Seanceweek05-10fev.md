@@ -10,9 +10,9 @@ le bois entourant le bassin, protegera le circuit arduino qui sera en-dessous;
 + Puis nous avons représenté notre pièce qui servira de support pour l'orientation des tuyaux :
 d'abord sur support papier :
 <img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/52008393_751107055273602_4228801722782318592_n.jpg" alt="Montage" height="200"/>
-
+<hr></hr>
 Puis sur support Autodesk Inventor :
-<img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/51616996_298818897403447_6736789025639628800_n.png" alt="Montage" height="200"/>
+<img src="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/51616996_298818897403447_6736789025639628800_n.png" alt="Montage" height="400"/>
 
 Notre pièce est prête à être fabriqué par une imprimante 3D.
    <a href="https://github.com/NalyJ/Fountain-Arduino/blob/master/Documents/Pi%C3%A8ce3.ipt">Fichier support autodesk</a>
