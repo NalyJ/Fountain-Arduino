@@ -9,11 +9,11 @@
 
 + Nous avons fixé nos 4 pompes dans dans la boîte avec la bonne longueur de fil pour accéder à la carte arduino.
 
-+ Nous avons transferer notre montage de la carte Arduino nano Xplained328mb.
++ Nous avons transferer notre montage de la carte Arduino nano Xplained328mb à la carte Arduino Uno.
  
   ## Difficultés lors de la séance
  
- + Notre difficulté majeure était de percer le bon emplacement pour les trous. Il fallait aligner les trous au support qui oriente les tuyayx.
+ + Notre difficulté majeure était de percer le bon emplacement pour les trous. Il fallait aligner les trous au support qui oriente les tuyaux.
   
  + Ensuite la principale difficulté était de pouvoir mettre les tuyaux à travers les trous. Les trous étant sérrés, les tuyaux ont du mal à entrer pour limiter les chances de fuites.
  
